@@ -4,7 +4,7 @@
 * `pkg update`
 * `pkg install git python python -y`
 * `git clone https://github.com/NILL404/SYED-FUCKED.git`
-* `cd haxorbd`
+* `cd NILL
 
 #### > Run : `python NILL.py`
 
